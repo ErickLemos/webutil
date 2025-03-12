@@ -1,0 +1,9 @@
+package org.cabradati.webutil.core.configs
+
+import org.springframework.context.annotation.Configuration
+import org.springframework.scheduling.annotation.EnableAsync
+
+@Configuration
+@EnableAsync
+class AsyncConfig {
+}

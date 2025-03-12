@@ -1,0 +1,5 @@
+rootProject.name = 'webutil'
+
+include('module-adapter-rest')
+include('module-core')
+include('module-domain')
